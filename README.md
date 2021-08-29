@@ -7,4 +7,4 @@ Blue circles: Targets that have not yet been reached
 Pink circles: Targets that have already been reached
 
 
-![Vehicle-Routing-Problem](simulation_1.gif)
+![Vehicle Routing Problem](simulation_1.gif)
