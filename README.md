@@ -9,4 +9,4 @@ Blue circles: Targets that have not yet been reached
 Pink circles: Targets that have already been reached
 
 
-![alt tag](images/simulation_1.gif)
+![CVRP](simulation_1.gif)
